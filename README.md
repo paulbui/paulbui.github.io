@@ -1,1 +1,28 @@
 # paulbui.github.io
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Title</title>
+    <!-- Link to external CSS file (optional) -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>Welcome to My Website</h1>
+    </header>
+
+    <main>
+        <p>This is a basic HTML5 boilerplate template.</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 My Website</p>
+    </footer>
+
+    <!-- Link to external JavaScript file (optional) -->
+    <script src="script.js"></script>
+</body>
+</html>
