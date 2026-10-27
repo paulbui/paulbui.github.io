@@ -5,8 +5,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document Title</title>
-    <!-- Link to external CSS file (optional) -->
-    <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
@@ -21,8 +19,5 @@
     <footer>
         <p>&copy; 2026 My Website</p>
     </footer>
-
-    <!-- Link to external JavaScript file (optional) -->
-    <script src="script.js"></script>
 </body>
 </html>
